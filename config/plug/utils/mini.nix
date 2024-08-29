@@ -4,6 +4,8 @@
     modules = {
       ai = { };
       surround = { };
+      notify = { };
+      trailspace = { };
     };
   };
 }
