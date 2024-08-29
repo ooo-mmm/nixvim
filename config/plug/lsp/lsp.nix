@@ -27,7 +27,7 @@
         gopls = {
           enable = true;
         };
-        terraformls = {
+        rust-analyzer = {
           enable = true;
         };
         tsserver = {
